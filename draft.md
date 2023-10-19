@@ -21,14 +21,15 @@
 
 - https://www.e-zigurat.com/en/blog/parametric-design-in-architecture-examples/
 - https://www.adfwebmagazine.jp/en/architect/architecture-parametric-design/
-- https://www.adfwebmagazine.jp/en/architect/architecture-parametric-design/
 
 ### 都市とデータ
 
 - [PLATEAU](https://www.mlit.go.jp/plateau/)
-- BIM / CIM
-  - [規格・仕様](https://www.mlit.go.jp/tec/tec_tk_000037.html)
-
+- [CESIUM](https://cesium.com/)
+- BIM / CIM / GIS
+  - [BIM/CIMに関する基準・要領等](https://www.mlit.go.jp/tec/tec_tk_000037.html)
+  - [GISとは](https://www.mlit.go.jp/kokudoseisaku/kokudoseisaku_tk1_000041.html)
+  
 ### Tools
 
 - [Rhinoceros + Grashopper](https://www.applicraft.com/products/rhinoceros/grasshopper/)
@@ -40,3 +41,22 @@
 #### 未分類
 - https://osarch.org/
 - https://github.com/ladybug-tools
+- https://spacio.ai/
+  - AIの利用
+- https://esri.github.io/cityengine/
+  - GISのデータを取り扱う大手のesriが開発
+
+### Blender - Geometry Nodes / Blender +  Sverchok
+
+- https://www.blender.org/download/ から各OS対応のものをダウンロード
+
+#### Geometry Nodes 導入
+
+TBA
+
+#### Sverchok 導入
+
+- 最新版のzipファイルをダウンロード
+  - https://github.com/nortikin/sverchok/archive/master.zip
+- Edit > Preferences > Add-ons > Install からダウンロードしたzipファイルを選択
+  <img src="./assets/fig2.webp" width="1200px">
