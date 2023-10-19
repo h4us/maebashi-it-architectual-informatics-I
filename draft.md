@@ -48,6 +48,12 @@
 
 ### Blender - Geometry Nodes / Blender +  Sverchok
 
+- どちらもノードベースでモデリング等を行うための機能（とプラグイン）
+- Geometry Nodes は Blender の v2.9 前後から本格的に導入された。Blender 自体のバージョンが上がるにつれて機能が強化されている。
+- Sverchok は Geometry Nodes が本格的に導入される以前から存在していたプラグイン。Rhinoceros における grasshopper のような立ち位置として開発が続けられており、現時点では Geometry Nodes では実現が難しいような処理もさせることができる利点がある（将来的にどうなるかは不明だが）
+
+#### Bledner 導入
+
 - https://www.blender.org/download/ から各OS対応のものをダウンロード
 
 #### Geometry Nodes 導入
@@ -59,4 +65,4 @@ TBA
 - プラグイン最新版のzipファイルをダウンロード
   - https://github.com/nortikin/sverchok/archive/master.zip
 - Edit > Preferences > Add-ons > Install からダウンロードしたzipファイルを選択
-  <img src="./assets/fig2.webp" width="1200px">
+  <img src="./fig2.webp" width="1200px">
