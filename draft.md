@@ -56,7 +56,7 @@ TBA
 
 #### Sverchok 導入
 
-- 最新版のzipファイルをダウンロード
+- プラグイン最新版のzipファイルをダウンロード
   - https://github.com/nortikin/sverchok/archive/master.zip
 - Edit > Preferences > Add-ons > Install からダウンロードしたzipファイルを選択
   <img src="./assets/fig2.webp" width="1200px">
