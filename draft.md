@@ -34,7 +34,7 @@
 
 - [Rhinoceros + Grashopper](https://www.applicraft.com/products/rhinoceros/grasshopper/)
 - [AUTODESK AutoCAD / Revit + Dynamo](https://github.com/DynamoDS/Dynamo)
-- [Blender](https://www.applicraft.com/products/rhinoceros/grasshopper/)
+- [Blender](https://blender.org/)
   - [Sverchok](https://github.com/nortikin/sverchok)
   - [BlenderBIM](https://blenderbim.org/)
 
