@@ -1,5 +1,7 @@
 # Blender + Sverchok Addon
 
+## Pros / Cons
+
 - ノードグラフのみをJSONとしてエクスポートできる
     - Geometry Nodesは4.0（2023年10月時点ではbeta）以降でNode Toolsという機能でアセットとしてエクスポートできるようになりそう（ https://code.blender.org/2023/10/node-tools/#Tools-specific-Nodes ）
 - 組み込みノードの種類、アルゴリズムが豊富
@@ -8,6 +10,11 @@
 - どうやら簡単なPythonスクリプトをノードグラフの一部として直接書ける。
     - Geometry Nodesの場合BlenderのAPI経由で扱うことになるので、若干導入までの敷居が高い。
 - サンプルが付属している。
+
+オフィシャルのステートメントとしては以下
+
+https://nortikin.github.io/sverchok/
+
 
 ## 参考資料
 
@@ -43,3 +50,81 @@ TBA
 - https://www.instagram.com/sverchok.3d/
     Instagram。作例などが載ってる
 
+
+## サンプルを読んでみる・パラメーター変更やノードの追加・削除・変更を試してみる
+
+<img src="../assets/fig3.webp" width="1200px">
+
+基本は Geometry Nodes の画面構成と同じ
+
+### Advanced
+
+#### Candy
+
+#### Circle fitting physics
+
+#### Genetic algorithm scripted node
+
+- GPU依存？あり
+
+#### Genetic algorithm simple
+
+#### Grain
+
+#### Petri Spiral Voronoi
+
+#### Pineapple.zip
+
+#### PointsONmeshINlines
+
+#### Strip spools tension
+
+### Architecture
+
+TBA
+
+### CNC
+
+TBA
+
+### Design
+
+TBA
+
+### Fields
+
+TBA
+
+- scipy 依存あり
+
+### Introduction
+
+#### ABCnaming
+
+#### Adaptive Spread
+
+#### BenTorus
+
+#### Circle Generator
+
+#### Donut by hands
+
+#### Interpolations
+
+#### List multymasking
+
+#### Orientation matrix track to
+
+#### Polor coordinates curve
+
+#### Voronoi Trick
+
+### Shapes
+
+TBA
+
+### Surface
+
+TBA
+
+- いくつかエラーあり
