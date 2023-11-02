@@ -50,12 +50,47 @@ TBA
 - https://www.instagram.com/sverchok.3d/
     Instagram。作例などが載ってる
 
-
-## サンプルを読んでみる・パラメーター変更やノードの追加・削除・変更を試してみる
+## 基本的な使い方
 
 <img src="../assets/fig3.webp" width="1200px">
 
 基本は Geometry Nodes の画面構成と同じ
+
+..More details TBA
+
+## Docs 抄訳・解説
+
+https://nortikin.github.io/sverchok/docs/main.html
+
+### User Interfacee
+
+TBA
+
+### Node evealuation system
+
+TBA
+
+### Data structrue
+
+#### Introduction to geometry
+
+- List, Index, Vector, Vertex, Edge, Polygon, Normal, Transformation, and Matrix.
+
+#### Solid
+
+- Blender にも一応「Solid化」するモディファイアはあるが、SverchokでSolidを扱う場合は[FreeCAD](https://www.freecad.org/index.php?lang=ja)経由で処理させる模様。別でインストールが必要。
+- Brep モデリング、Solid？
+
+    https://blog.spatial.com/ja/brep%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E4%B8%BB%E3%81%AA%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88%E3%81%A8%E3%83%87%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88
+
+..More details TBA
+
+### Nodes
+
+TBA
+
+
+## サンプルを読んでみる・パラメーター変更やノードの追加・削除・変更を試してみる
 
 ### Advanced
 
