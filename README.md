@@ -1,3 +1,4 @@
 # 建築情報学Ⅰ
 
-2024年度開講予定
+サンプルコードやサンプルデータ以外の授業に関連するコンテンツは [Wiki](https://github.com/h4us/maebashi-it-architectual-informatics-I/wiki) へ
+
