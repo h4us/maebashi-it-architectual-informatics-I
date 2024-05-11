@@ -1,0 +1,5 @@
+# vscode
+.vscode/*
+
+# blender tmp file
+*.blend[0-9]
